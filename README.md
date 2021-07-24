@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ratedrahul
-- 👀 I’m interested in making new projects
-- 🌱 I’m currently working on python ...
+- 👋 Hi, I’m rahul
+- 👀 I’m interested in finding out new opportunities to get better in the field
+- 🌱 I’m currently working on various Data Sceince Projects, ML projects and python projects...
 - 💞️ I’m looking to collaborate with other developers 
 - 📫 How to reach me -- contact at rahulj6688@gmail.com
 
